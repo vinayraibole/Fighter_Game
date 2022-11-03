@@ -1,4 +1,9 @@
 # Fighter_Game
+This is a simulation of 3 way fighter game using pygame.
+
+## Use this command to install pygame
+pip install -r requirements.txt
+
 
 Fighter game works as follows:
 1) There are 3 players in the game.
